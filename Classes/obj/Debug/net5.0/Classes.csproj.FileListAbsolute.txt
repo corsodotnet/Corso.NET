@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\utente\source\repos\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\utente\source\repos\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\utente\source\repos\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\utente\source\repos\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\utente\source\repos\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\refint\Classes.dll
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
+C:\Users\utente\source\repos\Classes\obj\Debug\net5.0\ref\Classes.dll

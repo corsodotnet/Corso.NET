@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\bin\Debug\net5.0\Spread_PublicPunish.exe
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\bin\Debug\net5.0\Spread_PublicPunish.deps.json
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\bin\Debug\net5.0\Spread_PublicPunish.runtimeconfig.json
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\bin\Debug\net5.0\Spread_PublicPunish.runtimeconfig.dev.json
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\bin\Debug\net5.0\Spread_PublicPunish.dll
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\bin\Debug\net5.0\Spread_PublicPunish.pdb
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.AssemblyInfo.cs
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.dll
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\refint\Spread_PublicPunish.dll
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.pdb
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\Spread_PublicPunish.genruntimeconfig.cache
+C:\Users\utente\source\repos\Spread_PublicPunish\Spread_PublicPunish\obj\Debug\net5.0\ref\Spread_PublicPunish.dll

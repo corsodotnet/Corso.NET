@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\bin\Debug\net5.0\EuroCentralBank.exe
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\bin\Debug\net5.0\EuroCentralBank.deps.json
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\bin\Debug\net5.0\EuroCentralBank.runtimeconfig.json
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\bin\Debug\net5.0\EuroCentralBank.runtimeconfig.dev.json
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\bin\Debug\net5.0\EuroCentralBank.dll
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\bin\Debug\net5.0\EuroCentralBank.pdb
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.AssemblyInfo.cs
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.dll
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\refint\EuroCentralBank.dll
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.pdb
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\EuroCentralBank.genruntimeconfig.cache
+C:\Users\utente\source\repos\EuroCentralBank\EuroCentralBank\obj\Debug\net5.0\ref\EuroCentralBank.dll

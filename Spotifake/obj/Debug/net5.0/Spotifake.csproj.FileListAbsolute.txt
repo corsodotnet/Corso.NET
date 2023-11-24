@@ -1,0 +1,4 @@
+C:\Users\utente\source\repos\Spotifake\obj\Debug\net5.0\Spotifake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\Spotifake\obj\Debug\net5.0\Spotifake.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\Spotifake\obj\Debug\net5.0\Spotifake.AssemblyInfo.cs
+C:\Users\utente\source\repos\Spotifake\obj\Debug\net5.0\Spotifake.csproj.CoreCompileInputs.cache
